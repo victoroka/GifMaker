@@ -16,4 +16,4 @@ GifMaker should run without any additional setup.
 
 ## Maintainers
 
-@GabrielleM
+@VictorOka
